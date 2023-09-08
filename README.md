@@ -1,2 +1,2 @@
-# AIFFEL_Quest_smc
+# AIFFEL_Quest
 아이펠 과정 중 수행한 퀘스트를 아카이브하는 공간
